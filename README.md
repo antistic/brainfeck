@@ -14,7 +14,7 @@ fairly simple algorithm. first it adds the nearest (round down) multiple of 10 t
 
 ## improvements for another day
 
- - [] execute brainfuck code
- - [] ... with visualiser
- - [] optimise output
- - [] deal with unicode (surrogate pairs) :cold_sweat: :worried:
+ - [ ] execute brainfuck code
+ - [ ] ... with visualiser
+ - [ ] optimise output
+ - [ ] deal with unicode (surrogate pairs) :cold_sweat: :worried:
