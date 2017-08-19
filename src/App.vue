@@ -85,6 +85,7 @@ export default {
   align-items: center;
   flex-direction: column;
   max-width: 50em;
+  margin: 0 auto;
 }
 
 label {
